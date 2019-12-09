@@ -33,6 +33,7 @@ main{
   font-size: 1.9rem;
   width: 20vw;
   flex-shrink: 1;
+  word-spacing: 100vw;
 }
 .day{
   font-size: 1.7rem;
